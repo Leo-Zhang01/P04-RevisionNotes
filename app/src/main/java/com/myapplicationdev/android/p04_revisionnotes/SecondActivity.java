@@ -13,7 +13,7 @@ public class SecondActivity extends AppCompatActivity {
 	ListView listView;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+		super.onCreate(savedInstanceState);  
 		setContentView(R.layout.activity_second);
 
 		//TODO implement the Custom ListView
